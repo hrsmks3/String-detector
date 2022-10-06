@@ -1,0 +1,222 @@
+m255
+K4
+z2
+!s11e vcom 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/USER/OneDrive/Documents/ee214/LAB2/simulation/modelsim
+Edetector
+Z1 w1665055016
+Z2 DPx4 ieee 11 numeric_std 0 22 aU^R8eGcicLcUFIaBQSL>3
+Z3 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z4 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 4
+R0
+Z5 8C:/Users/USER/OneDrive/Documents/ee214/LAB2/DETECTOR.vhd
+Z6 FC:/Users/USER/OneDrive/Documents/ee214/LAB2/DETECTOR.vhd
+l0
+L4 1
+VG]cWnNCSf;W]`1J:MD;]g2
+!s100 iR1;d]_mHYc:=c?gdVYY<3
+Z7 OV;C;2020.1;71
+31
+Z8 !s110 1665056249
+!i10b 1
+Z9 !s108 1665056249.000000
+Z10 !s90 -reportprogress|300|-93|-work|work|C:/Users/USER/OneDrive/Documents/ee214/LAB2/DETECTOR.vhd|
+Z11 !s107 C:/Users/USER/OneDrive/Documents/ee214/LAB2/DETECTOR.vhd|
+!i113 1
+Z12 o-93 -work work
+Z13 tExplicit 1 CvgOpt 0
+Abhv
+R2
+R3
+R4
+DEx4 work 8 detector 0 22 G]cWnNCSf;W]`1J:MD;]g2
+!i122 4
+l17
+L9 285
+VgD5omQ?1Yji?dFXZO8[:D3
+!s100 kzBQ]38f>nVgh[jkDXn:K2
+R7
+31
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+R13
+Edut
+Z14 w1665049770
+R3
+R4
+!i122 3
+R0
+Z15 8C:/Users/USER/OneDrive/Documents/ee214/LAB2/DUT.vhdl
+Z16 FC:/Users/USER/OneDrive/Documents/ee214/LAB2/DUT.vhdl
+l0
+L7 1
+Vbh06LOj0`0CGOaPeWR85R3
+!s100 EcY?:OJ;5_BmJ<Ehch1f@3
+R7
+31
+R8
+!i10b 1
+R9
+Z17 !s90 -reportprogress|300|-93|-work|work|C:/Users/USER/OneDrive/Documents/ee214/LAB2/DUT.vhdl|
+Z18 !s107 C:/Users/USER/OneDrive/Documents/ee214/LAB2/DUT.vhdl|
+!i113 1
+R12
+R13
+Adutwrap
+R3
+R4
+DEx4 work 3 dut 0 22 bh06LOj0`0CGOaPeWR85R3
+!i122 3
+l18
+L12 24
+VE^MS^d@l9:Z4@zU5[BJOI1
+!s100 XVjdDS?d9RXhJ`QXeQTX23
+R7
+31
+R8
+!i10b 1
+R9
+R17
+R18
+!i113 1
+R12
+R13
+Etestbench
+Z19 w1665049600
+R4
+R3
+!i122 5
+R0
+Z20 8C:/Users/USER/OneDrive/Documents/ee214/LAB2/Testbench.vhdl
+Z21 FC:/Users/USER/OneDrive/Documents/ee214/LAB2/Testbench.vhdl
+l0
+L7 1
+V]iKK_Z9L:G9B:i8c]3eFH0
+!s100 bWf8kl8zb90X@P1m>V^K20
+R7
+31
+R8
+!i10b 1
+R9
+Z22 !s90 -reportprogress|300|-93|-work|work|C:/Users/USER/OneDrive/Documents/ee214/LAB2/Testbench.vhdl|
+!s107 C:/Users/USER/OneDrive/Documents/ee214/LAB2/Testbench.vhdl|
+!i113 1
+R12
+R13
+Abehave
+R4
+R3
+DEx4 work 9 testbench 0 22 ]iKK_Z9L:G9B:i8c]3eFH0
+!i122 5
+l69
+L9 132
+VlTW:OIfQ=ZZU>;bfd9CUM3
+!s100 7`z[m?74>EALnS9o8F4Xm0
+R7
+31
+R8
+!i10b 1
+R9
+R22
+Z23 !s107 C:/Users/USER/OneDrive/Documents/ee214/LAB2/Testbench.vhdl|
+!i113 1
+R12
+R13
+Etoplevel
+Z24 w1665055603
+R2
+R3
+R4
+!i122 2
+R0
+Z25 8C:/Users/USER/OneDrive/Documents/ee214/LAB2/TopLevel.vhdl
+Z26 FC:/Users/USER/OneDrive/Documents/ee214/LAB2/TopLevel.vhdl
+l0
+L5 1
+VRW=hg7X2^>c3bX1h9KmmK0
+!s100 gJ^gg3F;Qe=>jcbTR:JjO3
+R7
+31
+R8
+!i10b 1
+R9
+Z27 !s90 -reportprogress|300|-93|-work|work|C:/Users/USER/OneDrive/Documents/ee214/LAB2/TopLevel.vhdl|
+Z28 !s107 C:/Users/USER/OneDrive/Documents/ee214/LAB2/TopLevel.vhdl|
+!i113 1
+R12
+R13
+Astruct
+R2
+R3
+R4
+DEx4 work 8 toplevel 0 22 RW=hg7X2^>c3bX1h9KmmK0
+!i122 2
+l75
+L13 146
+VI@GgZiZHNPXNM[3HOAcgh3
+!s100 :DkVc]MOQ=akL_O^kYB^L2
+R7
+31
+R8
+!i10b 1
+R9
+R27
+R28
+!i113 1
+R12
+R13
+Ev_jtag
+Z29 w1623670142
+R2
+R3
+R4
+!i122 1
+R0
+Z30 8C:/Users/USER/OneDrive/Documents/ee214/LAB2/v_jtag/synthesis/v_jtag.vhd
+Z31 FC:/Users/USER/OneDrive/Documents/ee214/LAB2/v_jtag/synthesis/v_jtag.vhd
+l0
+L9 1
+VK7J:B[m3^:cB1Km[I3N602
+!s100 C:GMYKMFIUkIMaKNS>ek<2
+R7
+31
+R8
+!i10b 1
+R9
+Z32 !s90 -reportprogress|300|-93|-work|work|C:/Users/USER/OneDrive/Documents/ee214/LAB2/v_jtag/synthesis/v_jtag.vhd|
+Z33 !s107 C:/Users/USER/OneDrive/Documents/ee214/LAB2/v_jtag/synthesis/v_jtag.vhd|
+!i113 1
+R12
+R13
+Artl
+R2
+R3
+R4
+DEx4 work 6 v_jtag 0 22 K7J:B[m3^:cB1Km[I3N602
+!i122 1
+l85
+L44 83
+VJODH=ZQLe0=R51Pn2gWGM3
+!s100 QN^;ea;8E9NBL5]J::=Mk2
+R7
+31
+R8
+!i10b 1
+R9
+R32
+R33
+!i113 1
+R12
+R13
